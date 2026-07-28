@@ -1,0 +1,15 @@
+{
+  "name": "privacy-pump-sdk",
+  "description": "TypeScript SDK for reading and constructing Privacy Pump Private Vault transactions.",
+  "maturity": "Experimental SDK",
+  "network": "Local validator and devnet",
+  "topics": [
+    "privacy-pump",
+    "solana",
+    "typescript",
+    "sdk",
+    "private-multisig",
+    "personal-vault"
+  ],
+  "visibility": "public-after-verification"
+}
